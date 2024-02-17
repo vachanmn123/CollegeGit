@@ -1,9 +1,0 @@
-Hallo There!
-
-Its Vachan again... I also wanted to tell you about my skills in the ethical hacking department.
-
-I pen-tested a school ERP software... I had fun exploring a GraphQL API and realising there was literally 0 access restriction.
-
-Lets meet again afterwards!
-
-Byeee!
